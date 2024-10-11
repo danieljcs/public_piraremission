@@ -14,6 +14,7 @@
           "Microsoft.EntityFrameworkCore": "8.0.8",
           "Microsoft.EntityFrameworkCore.Design": "8.0.8",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.8",
+          "Microsoft.SqlServer.Server": "1.0.0",
           "Newtonsoft.Json": "13.0.3",
           "Pomelo.EntityFrameworkCore.MySql": "8.0.2",
           "Swashbuckle.AspNetCore": "6.7.1"
@@ -798,9 +799,9 @@
           "AutoMapper": "13.0.1",
           "Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.8",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.8",
           "Microsoft.Extensions.Http": "8.0.0",
-          "Newtonsoft.Json": "13.0.3",
-          "Pomelo.EntityFrameworkCore.MySql": "8.0.2"
+          "Newtonsoft.Json": "13.0.3"
         },
         "runtime": {
           "DataLayer.dll": {}
