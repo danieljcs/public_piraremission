@@ -8,7 +8,7 @@ services:
     container_name: piraremission_back
     restart: always
     ports:
-      - 3322:8080
+      - 3325:8080
     environment:
       - TZ=America/Bogota
       - ASPNETCORE_ENVIRONMENT=Development
@@ -19,4 +19,4 @@ services:
     container_name: piraremission_front
     restart: always
     ports:
-      - 3321:80
+      - 3326:80
